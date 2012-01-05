@@ -1,7 +1,7 @@
 XPathGen
 --------
 
-Simple utility class for generating a unique XPath for a given DOM node.
+Simple Java utility class for generating a unique XPath for a given DOM node.
 
 E.g.
 
