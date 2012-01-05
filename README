@@ -37,6 +37,9 @@ more complicated than it needs to be however.
 
 For more usage details see the method testUsageExample in XPathGenTest.
 
+XPathGen has been tested with Java SE 6. If you want to run the tests you will
+JUnit 4.
+
 Possible improvements:
 
   - Using node names rather than numbers
