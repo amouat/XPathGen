@@ -35,7 +35,7 @@ nodes but these are seen as a single node in XPath, which requires the use of
 offsets and length attributes to work around). The ChildNumber class is still
 more complicated than it needs to be however.
 
-For more usage details see the method testUsageExample in XPathGenTest.
+For more usage details see "Example.java" and the JUnit tests.
 
 XPathGen has been tested with Java SE 6. If you want to run the tests you will
 JUnit 4.
