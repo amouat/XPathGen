@@ -23,9 +23,9 @@ for commercial use.)
 There are also a few extra methods you might find useful:
 
     - copyNodeToDoc   which copies an element with any attributes but no children
-                    from one document to another
+                      from one document to another
     - getLocalName    which just returns the local name of the node, falling back
-                    to the node name if this is null
+                      to the node name if this is null
     - isNamespaceAttr which returns true if the node is a namespace declaration
     - isText          which returns true if the node is a CDATA or text node
      
@@ -38,7 +38,7 @@ more complicated than it needs to be however.
 For more usage details see "Example.java" and the JUnit tests.
 
 XPathGen has been tested with Java SE 6. If you want to run the tests you will
-JUnit 4.
+need JUnit 4.
 
 Possible improvements:
 
